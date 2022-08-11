@@ -1,0 +1,22 @@
+{
+  "tags": [
+    {"name": "Careful"},
+    {"name": "DFS"},
+    {"name": "DP"},
+    {"name": "Easy"},
+    {"name": "Medium"},
+    {"name": "Hard"}
+  ],
+  "challenges": [
+    {"name": "1408. String Matching in an Array", "tags": ["Easy"]},
+    {"name": "636. Exclusive Time of Functions", "tags": ["Medium", "Careful"]},
+    {"name": "1413. Minimum Value to Get Positive Step by Step Sum", "tags": ["Easy"]},
+    {"name": "1417. Reformat The String", "tags": "Easy"}
+  ],
+  "attempts": [
+    {"challenge": "1408. String Matching in an Array", "time": "2022-08-07 00:00:00.000000", "rating": 5},
+    {"challenge": "636. Exclusive Time of Functions", "time": "2022-08-07 00:00:00.000000", "rating": 3},
+    {"challenge": "1413. Minimum Value to Get Positive Step by Step Sum", "time": "2022-08-09 00:00:00.000000", "rating": 4},
+    {"challenge": "1417. Reformat The String", "time":"2022-08-11 00:00:00.000000", "rating": 5}
+  ]
+}
